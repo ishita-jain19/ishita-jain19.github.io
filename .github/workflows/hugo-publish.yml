@@ -21,10 +21,11 @@ jobs:
       - name: Build
         run: hugo --minify
 
-      - name: Checkout Repository
+      - name: Checkout gh-pages Branch
         uses: actions/checkout@v2
         with:
           ref: gh-pages  # Branch to deploy to
+          persist-credentials: false  # Ensure the second checkout doesn't override the first one
 
       - name: Copy Hugo Build to Deploy Directory
         run: cp -r ${{ github.workspace }}/public/* .
