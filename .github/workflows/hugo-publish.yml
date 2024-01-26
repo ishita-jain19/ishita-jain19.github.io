@@ -1,9 +1,10 @@
-name: Build and Publish Hugo Site
+name: GitHub Pages
 
 on:
   push:
     branches:
       - main
+  pull_request:
 
 jobs:
   build:
@@ -11,32 +12,23 @@ jobs:
 
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
+        with:
+          submodules: true  # Fetch Hugo themes (true OR recursive)
+          fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
           hugo-version: 'latest'
+          # extended: true
 
       - name: Build
         run: hugo --minify
 
-      - name: Checkout gh-pages Branch
-        uses: actions/checkout@v2
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        if: github.ref == 'refs/heads/main'
         with:
-          ref: gh-pages  # Branch to deploy to
-          persist-credentials: false  # Ensure the second checkout doesn't override the first one
-
-      - name: Copy Hugo Build to Deploy Directory
-        run: cp -r ${{ github.workspace }}/public/* .
-
-      - name: Configure Git
-        run: |
-          git config --global user.email "ishita-jain19@users.noreply.github.com"
-          git config --global user.name "GitHub Actions"
-
-      - name: Commit Changes
-        run: |
-          git add .
-          git commit -m "Publish Hugo site - ${GITHUB_SHA}"
-          git push
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
