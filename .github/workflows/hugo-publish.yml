@@ -1,0 +1,47 @@
+name: Build and Publish Hugo Site
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: 'latest'
+
+      - name: Build
+        run: hugo --minify
+
+  deploy:
+    runs-on: ubuntu-latest
+
+    needs: build
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+        with:
+          ref: gh-pages  # Branch to deploy to
+
+      - name: Copy Hugo Build to Deploy Directory
+        run: cp -r ${{ github.workspace }}/public/* .
+
+      - name: Configure Git
+        run: |
+          git config --global user.email "ishita-jain19@users.noreply.github.com"
+          git config --global user.name "GitHub Actions"
+
+      - name: Commit Changes
+        run: |
+          git add .
+          git commit -m "Publish Hugo site - ${GITHUB_SHA}"
+          git push
