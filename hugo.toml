@@ -2,3 +2,63 @@ baseURL = 'https://ishita-jain19.github.io/journal/'
 languageCode = 'en-us'
 title = 'Life Journal : Ishita Jain'
 theme = 'lightbi-hugo'
+
+
+[Params]
+selfHosted = true
+mainSections = ["post","posts"]
+dateFormat = "2 January 2023"
+comments = false
+readingTime = true
+wordCount = false
+useHLJS = true
+socialShare = true
+delayDisqus = false
+showRelatedPosts = true
+summaryLength  = "9"
+lunrSearch = true
+gcse = false
+lastmod = false
+rss = false
+pagination = "10"
+hideAuthor = false
+authorInfo = "She is on the journey to finding herself"
+description="This is the authors life journal"
+previewCardImagePlacement = "bottom"
+
+
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[Author]
+  name = "Ishita Jain"
+  website = "https://github.com/ishita-jain19"
+  #email = "ishitajain.88@gmail.com"
+  #facebook = "username"
+  #instagram = "username"
+  #youtube = "user/username" # or channel/channelname
+  #twitter = "username"
+  #threads = "username"
+  #linkedin = "username"
+  github = "ishita-jain19"
+  #gitlab = "username"
+  #bitbucket = "username"
+  #reddit = "username"
+  #xing = "username"
+  #stackoverflow = "users/XXXXXXX/username"
+  #snapchat = "username"
+  #soundcloud = "username"
+  #spotify = "username"
+  #bandcamp = "username"
+  #itchio = "username"
+  #vk = "username"
+  #paypal = "username"
+  #telegram = "username"
+  #500px = "username"
+  #codepen = "username"
+  #mastodon = "url"
+  #kaggle = "username"
+  #weibo = "username"
+  #slack = "username"
