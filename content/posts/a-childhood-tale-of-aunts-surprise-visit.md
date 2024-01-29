@@ -14,7 +14,7 @@ It was there that I confessed, "Mausi(Aunt), since we didn't have an extra bed f
 
 To my surprise, she smiled and embraced me, expressing gratitude for making her feel at home. ❤️ Our shared moment beneath the bed remains etched in my heart, creating a lasting memory that brings a smile whenever I think of her to this day. ❤️❤️
 
-What did I learn from this day:
+What did I learn that day:
 
 1. The astonishing innocence and purity of a small child's heart, where honesty and sharing extend to what they perhaps shouldn't disclose.
 2. The profound bond we share with family, as we strive to make them feel happy, welcomed, and comfortable without expecting anything in return.
