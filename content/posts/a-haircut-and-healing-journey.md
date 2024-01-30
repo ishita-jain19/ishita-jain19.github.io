@@ -18,6 +18,6 @@ What Did I Learn from this Day?
 
 - Elders offer wisdom based on experience; their advice may not always align with our desires, but it often carries profound insights for our well-being.
 - Challenging times may bring pain and unpleasant memories, yet seeking the silver lining and understanding that future goodness may emerge is crucial. In my case, the health challenges paved the way for a transformative healing journey.
-- The unconditional love of our grandparents remains a priceless source of comfort and support. <3
+- The unconditional love of our grandparents and parents remains a priceless source of comfort and support. <3
 
-The day my grandmother finished braiding my hair, my dad captured a picture, now preserved in one of our family photo albums, encapsulating a moment of resilience and the beginning of a healing chapter. <3 <3
+Once my grandmother finished braiding my hair, my dad captured a picture, now preserved in one of our family photo albums, encapsulating a moment of resilience and the beginning of a healing chapter. <3 <3
