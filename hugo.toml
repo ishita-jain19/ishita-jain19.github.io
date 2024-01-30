@@ -1,4 +1,4 @@
-baseURL = 'https://ishita-jain19.github.io/journal/'
+baseURL = 'https://ishita-jain19.github.io/'
 languageCode = 'en-us'
 title = 'Life Journal : Ishita Jain'
 theme = 'lightbi-hugo'
@@ -33,7 +33,7 @@ previewCardImagePlacement = "bottom"
 
 [Author]
   name = "Ishita Jain"
-  website = "https://github.com/ishita-jain19"
+  website = "https://ishita-jain19.github.io/"
   #email = "ishitajain.88@gmail.com"
   #facebook = "username"
   #instagram = "username"
