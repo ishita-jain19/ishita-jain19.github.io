@@ -14,10 +14,10 @@ It was there that I confessed, "Mausi(Aunt), since we didn't have an extra bed f
 
 To my surprise, she smiled and embraced me, expressing gratitude for making her feel at home. ❤️ Our shared moment beneath the bed remains etched in my heart, creating a lasting memory that brings a smile whenever I think of her to this day. ❤️❤️
 
-What did I learn that day:
+What Did I learn from this Day?
 
-1. The astonishing innocence and purity of a small child's heart, where honesty and sharing extend to what they perhaps shouldn't disclose.
-2. The profound bond we share with family, as we strive to make them feel happy, welcomed, and comfortable without expecting anything in return.
-3. The beautiful blessing of having neighbors and a community always ready to lend a helping hand when needed.
+- The astonishing innocence and purity of a small child's heart, where honesty and sharing extend to what they perhaps shouldn't disclose.
+- The profound bond we share with family, as we strive to make them feel happy, welcomed, and comfortable without expecting anything in return.
+- The beautiful blessing of having neighbors and a community always ready to lend a helping hand when needed.
 
 In reflecting upon days like these, filled with innocence and warmth, I'm reminded that life unfolds in the beauty of small moments. These cherished memories not only bring smiles to our faces but also carry valuable lessons. Amidst the hustle of life, it serves as a gentle nudge to appreciate the little things, be grateful for the joy they bring, and find happiness in unexpected corners. These heartwarming episodes are the threads that weave the fabric of our lives, and through them, we discover the profound beauty in the simplicity of each day.
