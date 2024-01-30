@@ -7,7 +7,6 @@ theme = 'lightbi-hugo'
 [Params]
 selfHosted = true
 mainSections = ["post","posts"]
-dateFormat = "2 January 2023"
 comments = false
 readingTime = true
 wordCount = false
