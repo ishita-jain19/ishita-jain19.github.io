@@ -1,6 +1,6 @@
 +++
 title = 'Introduction: Me and my journey'
-date = 2024-01-27T03:29:29+08:00
+date = 2024-01-27
 +++
 
 
