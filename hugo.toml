@@ -27,7 +27,7 @@ previewCardImagePlacement = "bottom"
 
 [services]
   [services.disqus]
-    shortname = 'your-disqus-shortname'
+    shortname = 'ishita-jain'
 
 [sitemap]
   changefreq = "weekly"
