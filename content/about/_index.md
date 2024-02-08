@@ -1,7 +1,7 @@
 +++
-type : "tags"
-layout : "about"
-title: "About me"
+type = "tags"
+layout = "about"
+title = "About me"
 +++
 
 
