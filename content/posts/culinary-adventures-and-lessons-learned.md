@@ -19,4 +19,4 @@ What did I learn this day?
 - Days like this can give you some lessons that we can try to use and follow in the future.
 
 
-That was one day and some learning that led us to travel to 20-plus countries together and experience amazing things while still being vegetarian and just being a bit more flexible with each other. That was a day that made me learn and be prepared for future travels if we come across such situations in a country that we are not so much aware of. Lastly, we took this day as a beautiful learning and a memory that we now look back, laugh, and always talk about. ❤️ ❤️
+That was one memorable day. It was also followed by us travelling 20-plus countries together and experiencing amazing things. Today we are better prepared for all future travels, especially if we come across such situations in a country that is not vegetarian friendly. Lastly, we made memories that we now cherish, laugh, and talk about. ❤️ ❤️

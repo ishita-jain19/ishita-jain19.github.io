@@ -25,6 +25,9 @@ authorInfo = "I am on the journey to finding myself"
 description="This is my life journal"
 previewCardImagePlacement = "bottom"
 
+[services]
+  [services.disqus]
+    shortname = 'your-disqus-shortname'
 
 [sitemap]
   changefreq = "weekly"
