@@ -7,7 +7,7 @@ theme = 'lightbi-hugo'
 [Params]
 selfHosted = true
 mainSections = ["post","posts"]
-comments = false
+comments = true
 readingTime = true
 wordCount = false
 useHLJS = true
