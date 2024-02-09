@@ -9,7 +9,7 @@ I don't remember the day very well since it happened when I was 4 to 5 years old
 
 I came back from school, and I had a spelling test that day. After returning home, my mum asked me about the test. I happily shared that it went well, except for one word I knew was wrong. She asked how I could be so sure it was wrong, suggesting that maybe I wasn't entirely certain.
 
-Smiling, I confessed to my mum that I had accidentally peeped into my neighbor's test sheet and saw the correct spelling. However, I chose not to correct mine, as cheating is not good. Seeking affirmation, I asked her, "Right mummy, I did the right thing, right?" 😊 😊
+Smiling, I confessed to my mum that I had accidentally peeped into my neighbor's test sheet and saw the correct spelling. However, I chose not to correct mine, as cheating is not good. Seeking affirmation, I asked her, "Mummy, did I do the right thing?" 😊 😊
 
 My mum hugged me, smiled, and told me yes, that I did the right thing and she loves me a lot. ❤️
 
