@@ -1,6 +1,7 @@
 +++
 title = "Lessons from a Childhood Cultural Program - From Tree to Triumph (Part2)"
 date = 2024-02-06T08:30:00+08:00
+tags: ["teenage"]
 +++
 
 
@@ -13,7 +14,7 @@ Upon reaching school, during a break, I approached the concerned teacher to conv
 
 Her words resonated with me that day and have lingered in my thoughts ever since. I adopted a perspective that views every opportunity, whether small or grand, as a blessing worth embracing. 😊
 
-What did I learn that day:
+What did I learn from this day?
 
 - Sometimes, seeking guidance from someone more experienced can offer a fresh and enlightening perspective on a situation.
 - Embracing opportunities, regardless of the roles they entail, can lead to unexpected personal growth and achievements.
