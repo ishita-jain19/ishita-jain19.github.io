@@ -12,7 +12,7 @@ This day was when we were supposed to embark on this journey, taking an evening 
 My excitement peaked when I spotted a street food van in Malaysia, a sight I hadn't seen for 4 to 5 months since moving out of India to Singapore. Additionally, there was a 24-hour convenience store nearby. 😊 We approached the food van, and to our dismay, it was a burger vendor using ham in the burgers. Being a pure vegetarian from India, it felt awkward to stand there and ask the person to just heat the burger bun with butter separately, especially when he was still using the same pan to heat the ham. My husband, feeling hungry and practical, suggested we go ahead with it, but I refused, saying I couldn't eat it after witnessing the process. Disagreement ensued, turning into a hangry (hungry + angry) argument. Eventually, we both decided not to eat the bun, quietly went to the store, and managed to get only milk for that moment. 😔 
 Back in the room, I sipped some milk and went to sleep, while my husband, in his anger, chose to sleep on an empty stomach. 😔
 
-What did I learn this day?
+What did I learn from this day?
 
 - Sometimes, we really need to think logically and out of the box to make things work. We always cannot just stay very strict on our beliefs and also expect to have a good time without any trouble.
 - Sometimes, a day full of excitement and happiness can turn into a not-so-happy day or a sad day; however, it is up to us how to learn from such days and remember that day in our memories.
