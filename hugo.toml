@@ -2,6 +2,8 @@ baseURL = 'https://ishita-jain19.github.io/'
 languageCode = 'en-us'
 title = 'Life Journal : Ishita Jain'
 theme = 'lightbi-hugo'
+googleAnalytics = "G-JMN6YEL24Q"
+enableRobotsTXT = true
 
 
 [Params]
@@ -64,8 +66,6 @@ previewCardImagePlacement = "bottom"
   #kaggle = "username"
   #weibo = "username"
   #slack = "username"
-  googleAnalytics = "G-JMN6YEL24Q"
-  enableRobotsTXT = true
 
 [[menu.main]]
     name = "Home"
