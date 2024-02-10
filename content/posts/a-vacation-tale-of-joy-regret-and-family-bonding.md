@@ -18,6 +18,6 @@ What did I learn from this day?
 - Intuitive signs, like the initial struggle with finding the bike keys and my suggestion to return after the third round, should have been heeded to avoid the accident. ☺️
 - Family love instilled a sense of responsibility to protect my older cousin.
 - Despite the mishap, the family chose to stay back, showcasing the strength of family bonds. ❤️❤️
-- What started as a vacation nightmare led to a time of healing at home after the hospital visit. 😇
+- A day that started with joy and laughter during our vacation turned into a nightmare, especially for my mum. However, despite the unexpected turn of events, we managed to find solace and shared some quality time together at home after returning from the hospital. 😇
 
 Thus, with an ACL tear in my left knee, my vacation became a tale of unexpected turns, but resilience prevailed in the face of challenges. 😇
