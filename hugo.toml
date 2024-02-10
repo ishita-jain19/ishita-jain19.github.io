@@ -64,7 +64,8 @@ previewCardImagePlacement = "bottom"
   #kaggle = "username"
   #weibo = "username"
   #slack = "username"
-
+  googleAnalytics = "G-JMN6YEL24Q"
+  enableRobotsTXT = true
 
 [[menu.main]]
     name = "Home"
