@@ -1,0 +1,102 @@
+baseURL: https://ishita-jain19.github.io/
+languageCode: en-us
+title: "Life Journal : Ishita Jain"
+theme: lightbi-hugo
+googleAnalytics: G-JMN6YEL24Q
+enableRobotsTXT: true
+module:
+  imports:
+  - path: github.com/binokochumolvarghese/lightbi-hugo
+Params:
+  selfHosted: false
+  mainSections:
+    - post
+    - posts
+  comments: true
+  readingTime: true
+  wordCount: false
+  useHLJS: true
+  socialShare: true
+  delayDisqus: false
+  showRelatedPosts: true
+  summaryLength: "5"
+  lunrSearch: true
+  gcse: false
+  lastmod: false
+  rss: false
+  pagination: "10"
+  hideAuthor: false
+  authorInfo: I am on the journey to finding myself
+  description: This is my life journal
+  previewCardImagePlacement: bottom
+services:
+  disqus:
+    shortname: ishita-jain
+sitemap:
+  changefreq: weekly
+  priority: 0.5
+  filename: sitemap.xml
+Author:
+  name: Ishita Jain
+  website: https://ishita-jain19.github.io/
+  github: ishita-jain19
+  # do not use quotes when converting from TOML to YML
+  #email = "ishitajain.88@gmail.com"
+  #facebook = "username"
+  #instagram = "username"
+  #youtube = "user/username" # or channel/channelname
+  #twitter = "username"
+  #threads = "username"
+  #linkedin = "username"
+  #gitlab = "username"
+  #bitbucket = "username"
+  #reddit = "username"
+  #xing = "username"
+  #stackoverflow = "users/XXXXXXX/username"
+  #snapchat = "username"
+  #soundcloud = "username"
+  #spotify = "username"
+  #bandcamp = "username"
+  #itchio = "username"
+  #vk = "username"
+  #paypal = "username"
+  #telegram = "username"
+  #500px = "username"
+  #codepen = "username"
+  #mastodon = "url"
+  #kaggle = "username"
+  #weibo = "username"
+  #slack = "username"  #email = "ishitajain.88@gmail.com"
+  #facebook = "username"
+  #instagram = "username"
+  #youtube = "user/username" # or channel/channelname
+  #twitter = "username"
+  #threads = "username"
+  #linkedin = "username"
+  #gitlab = "username"
+  #bitbucket = "username"
+  #reddit = "username"
+  #xing = "username"
+  #stackoverflow = "users/XXXXXXX/username"
+  #snapchat = "username"
+  #soundcloud = "username"
+  #spotify = "username"
+  #bandcamp = "username"
+  #itchio = "username"
+  #vk = "username"
+  #paypal = "username"
+  #telegram = "username"
+  #500px = "username"
+  #codepen = "username"
+  #mastodon = "url"
+  #kaggle = "username"
+  #weibo = "username"
+  #slack = "username"
+menu:
+  main:
+    - name: Home
+      url: /
+      weight: 1
+    - name: About
+      url: /about/
+      weight: 2
