@@ -100,5 +100,3 @@ menu:
     - name: About
       url: /about/
       weight: 2
-build:
-  useLibSass: true
