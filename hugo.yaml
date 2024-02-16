@@ -1,12 +1,9 @@
 baseURL: https://ishita-jain19.github.io/
 languageCode: en-us
 title: "Life Journal : Ishita Jain"
-theme: lightbi-hugo
+theme: github.com/binokochumolvarghese/lightbi-hugo
 googleAnalytics: G-JMN6YEL24Q
 enableRobotsTXT: true
-module:
-  imports:
-  - path: github.com/binokochumolvarghese/lightbi-hugo
 Params:
   selfHosted: false
   mainSections:
