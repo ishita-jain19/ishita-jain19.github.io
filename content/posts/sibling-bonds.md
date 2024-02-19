@@ -1,5 +1,5 @@
 +++
-title = "sibling bonds"
+title = "Sibling bonds"
 date = 2024-02-17T08:30:00+08:00
 tags = ["Sibling"]
 +++
