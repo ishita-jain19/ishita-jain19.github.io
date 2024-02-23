@@ -1,12 +1,12 @@
 +++
-title = "A Palette of Creativity and Personal Touch :heart::art:"
+title = "A Palette of Creativity and Personal Touch"
 date = 2024-02-21T08:30:00+08:00
 +++
 
 
 Since recently, I shared my adventures in trying classical singing, let me delve into the memories of some eventful days, recalling the moments when I learned and excelled in various classes and arts during my younger years.❤️🙂
 
-This particular day revolves around my art class, a realm I entered because of my love for creativity, colors, and paints. However, my drawing skills weren't at their peak. So, my mom enrolled me in a class where we learned to draw by observing a picture and then added our own touch through coloring, be it with wax crayons or watercolors.
+This particular day revolves around my art class, a realm I entered because of my love for creativity, colors, and paints. However, my drawing skills weren't at their peak. So, my mom enrolled me in a class where we learned to draw by observing a picture and then added our own touch through coloring, be it with wax crayons or watercolors. 🎨🎨
 
 I had a tendency to erase a lot while drawing, aiming for perfection in replication. My teacher consistently advised against it, encouraging me to embrace creativity and make personal modifications.❤️
 
