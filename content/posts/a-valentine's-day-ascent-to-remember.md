@@ -15,6 +15,7 @@ As we commenced our ascent, the rocky terrain demanded more than physical endura
 The climb brought forth a mix of emotions—anticipation, excitement, and fear. Fatigue set in early, and doubts clouded my mind. However, my husband's unwavering patience and encouraging words became my anchor. With each step, he reminded me, 'one step at a time.' In moments of frustration and exhaustion, his smile and reassuring words guided me. He never uttered a word of distress, even though my struggles slowed our pace. His focus was solely on ensuring my successful and joyful completion of the climb. It was then that I realized, no matter the challenges, he would always stand by me. ❤️❤️
 
 What did I learn from this day?
+
 - 'One step at a time' holds the power to lead you anywhere in life.
 - Climbing a mountain is predominantly a test of mental fortitude.
 - Love knows no bounds and surpasses all challenges. ❤️❤️
