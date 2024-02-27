@@ -23,9 +23,7 @@ In the ensuing days, my condition improved, but the memory of that initial night
 What did I learn from this day?
 
 - Recognizing the toll constant worry can take on mental health is crucial. Taking steps to shield oneself from distressing information is a form of self-preservation.🛡️
-
 - Regularly checking in on loved ones fosters a sense of connection and reassurance, helping alleviate anxiety.❤️
-
 - Consulting a healthcare professional, even a family member, can provide valuable insights and guidance during challenging times.👩‍⚕️
 
 
