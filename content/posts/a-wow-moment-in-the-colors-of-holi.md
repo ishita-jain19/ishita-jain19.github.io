@@ -20,4 +20,3 @@ What did I learn from this day?
 - The unfiltered joy and awe expressed by a child reinforced the beauty of appreciating life's small, magical moments, reminding me to find joy in the simple things and treasure the purity that resides in every shared experience.💖💖
 
 
-
