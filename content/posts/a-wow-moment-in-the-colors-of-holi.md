@@ -1,5 +1,5 @@
 +++
-title = "A WOW Moment in the Colors of Holi"
+title = "A WOW moment in the colors of Holi"
 date = 2024-02-28T08:30:00+08:00
 +++
 
